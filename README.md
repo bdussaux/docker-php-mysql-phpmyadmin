@@ -40,12 +40,12 @@ Pour installer Docker Compose, il faut suivre les étapes suivantes :
       
 2. Appliquer les permissions d'exécution sur le binaire suivant :
 
-        $ chmod +x /usr/local/bin/docker-compose
+        chmod +x /usr/local/bin/docker-compose
 
 3. Tester si l'installation s'est bien passée.
 
-        $ docker-compose --version
-        docker-compose version: 1.4.0
+        docker-compose --version
+        docker-compose version: 1.24.1
 
 ### Modification du fichier docker-compose.yml 🖊
 
